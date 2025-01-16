@@ -1,7 +1,7 @@
 # Exported from Render on 2025-01-05T06:26:54Z
 services:
      - type: web
-       name: ☩ 𝐁𝐥𝐮𝐝𝐌𝐝 ☩
+       name: Bludos
        runtime: docker
        repo: https://github.com/frostbitecloudhost/Xstro
        plan: free
