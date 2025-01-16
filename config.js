@@ -3,7 +3,7 @@ dotenv.config();
 
 const config = {
 	SESSION_ID: process.env.SESSION_ID || 'XSTRO_94_19_95',
-	SUDO: process.env.SUDO || '',
+	SUDO: process.env.SUDO || '.',
 	API_ID: process.env.API_ID || 'https://xstro-api-4fb28ece11a9.herokuapp.com',
 	BOT_INFO: process.env.BOT_INFO || '☩ 𝐁𝐥𝐮𝐝𝐌𝐝 ☩',
 	STICKER_PACK: process.env.STICKER_PACK || '☩ 𝐁𝐥𝐮𝐝𝐌𝐝 ☩',
